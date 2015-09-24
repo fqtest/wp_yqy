@@ -10,10 +10,6 @@
 
 get_header(); 
 
-
-get_post_thumbnail_id($post_id);
-
-
 ?>
 
 <section id="primary" class="span8">
