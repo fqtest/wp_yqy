@@ -2,4 +2,4 @@
 A wordpress theme by YQY
 
 Demo title
-==========
+---------
