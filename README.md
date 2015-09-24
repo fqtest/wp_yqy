@@ -1,5 +1,5 @@
 # wp_yqy
-A wordpress theme by YQY
+A Wordpress Theme by YQY
 
 Demo title
 ---------
