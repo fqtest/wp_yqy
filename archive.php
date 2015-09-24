@@ -13,7 +13,10 @@
  * @since		1.0.0 - 07.02.2012
  */
 
-get_header(); ?>
+get_header(); 
+
+
+?>
 
 <section id="primary" class="span8">
 
